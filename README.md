@@ -126,16 +126,6 @@ I'm **Premchand Yadav** — an aspiring **tech entrepreneur**, **AI/ML developer
 ---
 
 ✨ *"Driven by curiosity, fueled by creativity, and committed to building a better future through technology."* ✨
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premchandyadav369&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premchandyadav369&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=github-compact&hide_border=true" width="100%"/>
-</p>
 
 ---
 
