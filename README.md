@@ -127,20 +127,3 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 
 ---
 
-## GITHUB ANALYTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premchandyadav369&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premchandyadav369&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=github-compact&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchandyadav369&layout=compact&theme=radical&langs_count=8&hide_border=true" height="150" alt="languages graph" />
-</div>
