@@ -1,29 +1,26 @@
-<!-- Premchand Yadav Profile README -->
+# <!-- Premchand Yadav Profile README -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjAyMDZmeGVhbDR6em9rOHhqZTJnemE1b3l6ZGxmdjhycW94NjEwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N2pnVf7TSe1DW/giphy.gif" width="100%" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Premchand%20Yadav&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Research-Oriented%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AgriTech%20Founder&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
-<h1 align="center">Premchand Yadav</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+Systems+that+Matter+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Federated+Learning+%7C+Quantum+Computing;AgriTech+Founder+%7C+VIT-AP+University+%F0%9F%8E%93" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-  Research-Oriented Data Scientist | Machine Learning Engineer | AgriTech Founder
-</h3>
-
-<p align="center">
-  <b>VIT-AP University</b>, Andhra Pradesh, India
-</p>
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Premchandyadav369">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Premchandyadav369&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -34,7 +31,7 @@
 
 ---
 
-## PROFESSIONAL PROFILE
+## 🧠 PROFESSIONAL PROFILE
 
 I am an **Aspiring Research-Oriented Data Scientist** and **Machine Learning Engineer** currently pursuing a **B.Tech in Computer Science (AI & ML)** at **VIT-AP University**.
 
@@ -44,7 +41,7 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 
 ---
 
-## TECHNICAL COMPETENCIES
+## ⚙️ TECHNICAL COMPETENCIES
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -57,9 +54,28 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 | **Cloud & DevOps** | AWS (Foundations), Git, GitHub, Linux, REST APIs |
 | **Simulation** | HOMER Pro (Energy Systems), Qiskit (Quantum Computing) |
 
+<div align="center">
+
+### 🛠️ Tech Stack Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
 ---
 
-## KEY PROJECTS
+## 🚀 KEY PROJECTS
 
 ### **[AuditX — AI-Powered Fraud Detection Platform](https://auditx-gdg.vercel.app)**
 *Built with: Machine Learning, Gemini AI, NLP*
@@ -80,7 +96,7 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 
 ---
 
-## RESEARCH EXPERIENCE
+## 🔬 RESEARCH EXPERIENCE
 
 ### **Multidisciplinary AI, Energy, Quantum, and Space Systems**
 *September 2023 – Present*
@@ -108,7 +124,7 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 
 ---
 
-## EDUCATION
+## 🎓 EDUCATION
 
 | Degree | Institution | Performance | Year |
 | :--- | :--- | :--- | :--- |
@@ -118,7 +134,7 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 
 ---
 
-## LEADERSHIP & ACTIVITIES
+## 🏆 LEADERSHIP & ACTIVITIES
 
 *   **Club Manager:** Electoral Club, VIT-AP University (June 2025 – Nov 2025)
 *   **Treasurer:** Entrepreneurship Club, VIT-AP University (August 2024 – Nov 2025)
@@ -127,3 +143,67 @@ My research interests focus on **Privacy-Preserving AI, Intelligent Energy Syste
 
 ---
 
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Premchandyadav369&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchandyadav369&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premchandyadav369&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏅 ACHIEVEMENTS & TROPHIES
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Premchandyadav369&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" alt="Trophies"/>
+</div>
+
+---
+
+## 🦾 THE STARK PROTOCOL — *"Because Average Was Never The Plan"*
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=3&section=header" width="100%"/>
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║           J.A.R.V.I.S  INTERFACE  ·  PREMCHAND SYSTEMS v2.0         ║
+║══════════════════════════════════════════════════════════════════════║
+║  > Suit Status       : ONLINE — All Systems Nominal                  ║
+║  > Arc Reactor       : Powered by Curiosity & 9.32 CGPA              ║
+║  > Primary Directive : Build AI that changes the real world          ║
+║  > Side Quests       : Quantum computing · Space debris · AgriTech   ║
+║  > Known Weaknesses  : Perfectionism, rabbit holes, 3AM code commits  ║
+║  > Threat Assessment : CRITICAL — to mediocrity                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+> *"Genius, billionaire, playboy, philanthropist."*  
+> *— Tony Stark, on what he's working towards (minus the billionaire part, for now)*
+
+I don't just write code — I engineer solutions. Like Stark, I believe the best systems aren't built in labs; they're built in the chaos of real problems — paddy fields in Andhra Pradesh, rural microgrids with no power, financial systems riddled with fraud, and orbits cluttered with debris.
+
+Every project I build is a **suit upgrade**: modular, iterative, and slightly over-engineered because *good enough* is the enemy of *legendary*.
+
+**My Arc Reactor?** An obsessive curiosity for systems that haven't been built yet.  
+**My Pepper Potts?** Data — messy, contradictory, and absolutely essential.  
+**My Afghanistan cave?** Every 48-hour hackathon I've walked into with nothing but a laptop.
+
+The difference between a scientist and an engineer is that a scientist asks *"why?"* — and I ask **"why not build it tonight?"**
+
+> *"Part of the journey is the end... but we're not even close yet."* 🔴🟡
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
