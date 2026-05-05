@@ -150,20 +150,6 @@ $ _
 
 ---
 
-## 🚀 KEY PROJECTS — PROOF OF WORK
-
-<div align="center">
-
-<!-- PROJECT SHOWCASE GRID -->
-| 🛰️ DEBRIX-X | 🧠 MindTrace AI | 🌾 RICE AgriTech |
-| :---: | :---: | :---: |
-| <img src="https://media.giphy.com/media/3o7TKSjPxyS0zE2e2I/giphy.gif" width="220" alt="DEBRIX-X Orbital"/> | <img src="https://media.giphy.com/media/l41lTjJ98Xl6x6K7m/giphy.gif" width="220" alt="MindTrace Neural"/> | <img src="https://media.giphy.com/media/3o7TKMGpxx6rX3Y5m8/giphy.gif" width="220" alt="AgriTech Growth"/> |
-| **Autonomous Space Debris Removal** | **Quantum Bias Detection** | **AI-Driven Farming Platform** |
-| Swarm AI · YOLOv8 · NASA GMAT | Transformer NLP · Qiskit · XAI | LSTM · HOMER Pro · FastAPI |
-| `LEO · Kessler Syndrome · MPC` | `Cognitive Fingerprinting · GNN` | `Rural Electrification · AgriML` |
-| [📄 View Research ↗️](#-debrix-x-v100--autonomous-space-debris-removal-system) | [🔬 View Research ↗️](#-mindtrace-ai--quantum-inspired-cognitive-bias-detector) | [🌐 Visit Platform ↗️](#) |
-
-</div>
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
