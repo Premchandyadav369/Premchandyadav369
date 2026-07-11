@@ -150,14 +150,6 @@ $ _
 
 ---
 
-
-<!-- ANIMATED DIVIDER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
----
-
 ### 🔍 **[AuditX — AI-Powered Fraud Detection Platform](https://auditx-gdg.vercel.app)**
 *🛠️ Built with: Machine Learning · Gemini AI · NLP · Anomaly Detection*
 
@@ -333,6 +325,52 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 
 ---
 
+## 🧬 CURRENT FRONTIER RESEARCH — AETHER-RAMI
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xUOxfhIeH0mA4V6ekw/giphy.gif" width="420" alt="Molecular Simulation"/>
+</div>
+
+**AETHER-RAMI** is a research-grade computational drug discovery platform (Next.js + FastAPI) combining self-supervised graph learning with protein-ligand cross-attention to accelerate early-stage molecular screening.
+
+| 🧪 Module | 🧠 Technique | 🎯 Purpose |
+|:---|:---|:---|
+| **Self-Supervised Pretraining** | GraphCL + InfoNCE Contrastive Learning | Learns molecular representations without labels |
+| **Molecular Encoder** | GATv2Conv + GPS Graph Transformer | Captures local & long-range atomic structure |
+| **Protein Context** | ESM-2 Protein Language Model | Encodes target-protein sequence embeddings |
+| **Cross-Modal Fusion** | Protein-Ligand Cross-Attention + Drug-Protein CLIP | Aligns molecule & protein embedding spaces |
+| **All-Atom Geometry** | SpatialCrossAttnEGNN | Full 3D equivariant atomic modeling |
+| **Docking Validation** | AutoDock Vina | Physics-based binding pose scoring |
+| **Active Learning** | BALD + Bayesian Thompson Sampling | Prioritizes most informative molecules to test next |
+| **Retrieval** | Dual FAISS Indexing | Fast nearest-neighbor molecular search |
+
+- 🎯 Benchmarked across **five protein targets** — EGFR, BRAF, CDK2, HIV Protease, AChE
+- 📚 Trained and validated on **PDBbind, BindingDB, and MoleculeNet**
+- 🖥️ v10.2 shipped a command palette, batch prediction lab, live WebSocket training widget, and full activity history in the frontend
+- 🔬 Presented in a 29-slide *"Midnight Biophysics"* research briefing to senior researchers at **CSIR-IICT** and **CCMB Hyderabad**, co-authored with **Prof. Suresh Dara (IIT (ISM) Dhanbad)**
+
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
+## 🛣️ DARA — DYNAMIC ADAPTIVE RESILIENCE ANALYSIS
+
+A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. Suresh Dara** as first author, that replaces fixed-coefficient resilience formulas with a learned, adaptive scoring model for large-scale infrastructure networks.
+
+- 📐 Formalized in a publication-quality **IEEE-format LaTeX paper** (*DARA_Foundation_IEEE.tex*), including intermediate **QRC** and **QGRP** frameworks
+- 🗺️ Validated at **million-node scale** on the **Stanford SNAP California Road Network** and two additional SNAP road datasets
+- ⚙️ Engineering focus on memory-efficient, GPU-scalable graph processing for real-world-sized networks
+
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
 ## 🗺️ RESEARCH & LEARNING ROADMAP
 
 ```
@@ -355,9 +393,11 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
   ⬜  Q4: First Academic Paper — AI-Driven Rural Microgrids 📄
 
   2026  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ⬜  Q1: DEBRIX-X Alpha Simulation — AWS Cloud Deployment 🛰️
-  ⬜  Q2: Quantum ML Research — Qiskit Runtime Primitives ⚛️
-  ⬜  Q3: Research Internship / Industry Collaboration 🤝
+  ✅  Q1: AETHER-RAMI — GraphCL + Cross-Attention Molecular Platform
+  ✅  Q2: DARA Framework — IEEE Paper & SNAP Road Network Validation
+  🔄  Q3: AETHER-RAMI v10.2 — Command Palette & Batch Prediction Lab
+  🔄  Q3: DARA — Self-Supervised MoE-GNN Extension
+  ⬜  Q4: Research Internship / Industry Collaboration 🤝
   ⬜  Q4: MindTrace AI — Open Beta Launch 🧠
 
   LEGEND:  ✅ Complete  |  🔄 In Progress  |  ⬜ Planned
@@ -403,6 +443,11 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 - Developing Deep Learning-based debris detection models for LEO object cataloguing
 - Conceptualizing autonomous robotic capture mechanisms for space sustainability infrastructure
 - Integrating Skyfield ephemeris data with YOLOv8 inference for multi-modal debris tracking
+
+### 🛣️ **Dynamic Adaptive Resilience Analysis (DARA)**
+- Co-developing a self-supervised Mixture-of-Experts GNN to model infrastructure network resilience
+- Validating at million-node scale on Stanford SNAP road networks
+- Authoring an IEEE-format publication with Prof. Suresh Dara (IIT (ISM) Dhanbad) as first author
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
@@ -569,6 +614,8 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 ║   ⚡   Intelligent Energy Systems & Microgrids         ║
 ║   🔐   Federated Learning & Privacy-Preserving AI      ║
 ║   🌐   Open-Source Contributions (AI/ML Ecosystem)     ║
+║   💊   Graph Neural Networks for Drug Discovery        ║
+║   🛣️   Infrastructure Network Resilience Modeling      ║
 ║                                                        ║
 ╚════════════════════════════════════════════════════════╝
 ```
@@ -631,14 +678,136 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Premchandyadav369/Premchandyadav369/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Premchandyadav369/Premchandyadav369/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://github.com/Premchandyadav369/Premchandyadav369/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+### *Watch a snake eat its way through a year of commits*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
-> 💡 **To activate:** Create `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) — auto-generates from your contribution graph on a schedule.
+The snake board is generated by [Platane/snk](https://github.com/Platane/snk), which pulls the contribution graph, computes an optimal path for the snake to "eat" every cell in order, and renders it as a GIF or SVG. It re-runs on a schedule via GitHub Actions, so the board redraws itself automatically.
+
+<details>
+<summary>⚙️ <b>How this is wired up — GitHub Action config</b></summary>
+
+Create `.github/workflows/snake.yml` in the profile repo:
+
+```yaml
+name: generate animation
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  # allow manual runs from the Actions tab
+  workflow_dispatch:
+  # run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: push snake output to the `output` branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Reference it in this README with dark-mode support:
+
+```md
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+```
+
+Faster SVG-only builds can use `uses: Platane/snk/svg-only@v3` instead. Palette, snake color, dot colors, and background are all customizable via query-string options on each output line. Interactive demo & source: [platane.github.io/snk](https://platane.github.io/snk) · repo: [Platane/snk](https://github.com/Platane/snk).
+
+</details>
+
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
+## 📄 PUBLICATIONS & FRONTIER AI RESEARCH
+
+| 📝 Title | 🎓 Venue | 📅 Date | 🔖 Role |
+|:---|:---|:---|:---|
+| **Glass Box at Orbit: A Constitutional AI Verification Framework for Trustworthy Autonomous CubeSat Intelligence** | arXiv:2606.02967 — *Project October*, Paper 1 | Jun 2026 | Co-Author |
+| **DARA: Dynamic Adaptive Resilience Analysis** | IEEE-format LaTeX, in preparation | 2026 | Co-Author (with Prof. Suresh Dara) |
+| **MedGemma 1.5B Edge Quantization & Adaptation** | IEEE Conference | Early 2026 | Lead Researcher |
+| **ACE: Deep Learning-Based Anti-Surveillance System** | IEEE Conference | Early 2026 | Lead Researcher |
+
+> Four peer-reviewed / preprint papers spanning **edge AI, computer vision, runtime safety verification for autonomous systems, and infrastructure network resilience.**
+
+<!-- ANIMATED DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+---
+
+## 🕰️ CODING ACTIVITY CLOCK
+
+> *⚙️ Setup: Add the [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) or [productivity-tracker](https://github.com/anmol098/waka-readme-stats) Action to populate this with real WakaTime/Git hours data.*
+
+<div align="center">
+
+```text
+╔═══════════════════════════════════════════════════════╗
+║           WEEKLY RESEARCH & DEV BREAKDOWN              ║
+╠═══════════════════════════════════════════════════════╣
+║  Deep Learning / GNN Research   ████████████░░  62%    ║
+║  Quantum / Optimization         ████░░░░░░░░░░  18%    ║
+║  Frontend (Next.js / React)     ███░░░░░░░░░░░░  12%    ║
+║  Notebook Debugging / Infra     ██░░░░░░░░░░░░░  08%    ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🧭 GUIDING PRINCIPLES
+
+<div align="center">
+
+| Principle | What it means in practice |
+|:---|:---|
+| 🔁 **Iterate, don't discard** | Debug from real error logs; ship targeted fixes, not rewrites |
+| 🧱 **Single source of truth** | Prefer self-contained, single-cell notebooks for reproducibility |
+| 🧪 **Validate at real scale** | Test on million-node graphs and multi-target benchmarks, not toy data |
+| 🌉 **Bridge frontier & field** | Take quantum/GNN research and connect it to agriculture, health, and infrastructure |
+| 🤝 **Build in the open** | Publish notebooks, model cards, and READMEs so the work is reproducible |
+
+</div>
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
@@ -663,7 +832,10 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 ║  ⚡  23.5 tons CO₂/yr Saved — Rural Microgrid Research(Simulation)          ║
 ║  🎓  CGPA 9.32 / 10 — VIT-AP University                        ║
 ║  💻  5+ Production-Grade AI Platforms Deployed                  ║
-║  🔬  Active Research: FL · Quantum · Space · Energy             ║
+║  🔬  Active Research: FL · Quantum · Space · Energy · Drug Discovery ║
+║  📄  Co-Author, arXiv Preprint — Glass Box at Orbit (2026)       ║
+║  🧬  Built AETHER-RAMI — Molecular Intelligence Platform         ║
+║  🛣️  Built DARA — Million-Node Infrastructure Resilience GNN     ║
 ║  🏛️  Microsoft Student Chapter — Core Team                      ║
 ║  💰  Entrepreneurship Club Treasurer                             ║
 ║                                                                  ║
@@ -740,6 +912,18 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 
 ---
 
+## 💬 ASK ME ABOUT
+
+<div align="center">
+
+`Graph Neural Networks` · `Self-Supervised Contrastive Learning` · `Protein-Ligand Cross-Attention` ·
+`Quantum-Inspired Optimization (QUBO/QAOA)` · `Million-Node Graph Processing` · `Kaggle Notebook Debugging` ·
+`AgriTech ML Pipelines` · `Federated Learning` · `Autonomous Systems Safety Verification`
+
+</div>
+
+---
+
 ## 🎯 FINAL CALL — LET'S BUILD SOMETHING REAL
 
 <div align="center">
@@ -748,11 +932,11 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 
 <br/>
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vcpremchandyadav@gmail.com">
     <img src="https://img.shields.io/badge/🔬_Collaborate_on_Research-00D9FF?style=for-the-badge&logo=googlescholar&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/premchand-yadav">
     <img src="https://img.shields.io/badge/🚀_Follow_Founder_Journey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
