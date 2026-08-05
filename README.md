@@ -36,7 +36,7 @@
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <p align="center">
@@ -44,10 +44,30 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
 ---
+
+
+## 📑 TABLE OF CONTENTS
+<details open>
+<summary><b>Explore The Nexus (Click to Collapse)</b></summary>
+
+1. [🧠 Professional Profile](#-professional-profile)
+2. [📜 Manifesto](#-manifesto)
+3. [🏆 GitHub Trophies & Top Repositories](#-github-trophies)
+4. [🛠️ AI Rig / Battle Station](#-ai-rig--battle-station-specs)
+5. [🔬 Core Projects](#-auditx--ai-powered-fraud-detection-platform)
+6. [🧬 Frontier Research — AETHER-RAMI](#-current-frontier-research--aether-rami)
+7. [🛣️ Research & Learning Roadmap](#-research--learning-roadmap)
+8. [🎓 Education & Technical Competencies](#-education)
+9. [📈 GitHub Statistics](#-github-statistics)
+10. [🌍 Let's Collaborate](#-final-call--lets-build-something-real)
+
+</details>
+
+<br>
 
 ## 🧠 PROFESSIONAL PROFILE
 
@@ -85,7 +105,7 @@ My research interests focus on **Privacy-Preserving AI 🔐, Intelligent Energy 
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
 
 ---
@@ -105,34 +125,69 @@ My research interests focus on **Privacy-Preserving AI 🔐, Intelligent Energy 
 │         Research | Build | Ship | Repeat ♾️              │
 └──────────────────────────────────────────────────────────┘
 
-$ sudo apt install destiny
+$ sudo apt update && sudo apt install destiny -y
 
 [sudo] password for premchand: ••••••••••••
 
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Get:2 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Fetched 114 kB in 1s (120 kB/s)
 Reading package lists... Done
 Building dependency tree... Done
+Reading state information... Done
 
 E: Package 'destiny' has no installation candidate.
 
-Note: Destiny cannot be installed.
-      It must be built — one commit at a time.
+Note: Destiny cannot be installed via package manager.
+      Compiling from source...
+      [███████████████████████████████████] 100%
+      Build complete. It must be built — one commit at a time.
 
 $ whoami
   → premchand_yadav [AI_Engineer | Researcher | Founder]
+  → System Access Level: ROOT_ACCESS_GRANTED 🔓
+
+$ neofetch
+       _,met$$$$$gg.          premchand@AI-NEXUS-RIG
+    ,g$$$$$$$$$$$$$$$P.       ----------------------
+  ,g$$P"     """Y$$.".       OS: Ubuntu 22.04.3 LTS x86_64
+ ,$$P'              `$$$.     Host: Quantum Blade AI Workstation
+',$$P       ,ggs.     `$$b:   Kernel: 6.2.0-32-generic
+`d$$'     ,$P"   .    $$$   Uptime: 420 days, 24 hours, 7 mins
+ $$P      d$'     ,    $$P    Packages: 4096 (dpkg), 12 (snap)
+ $$:      $$.   -    ,d$$'    Shell: zsh 5.8.1
+ $$;      Y$b._   _,d$P'      Resolution: 3840x2160, 3840x2160
+ Y$$.    `.`"Y$$$$P"'         DE: GNOME 42.9
+ `$$b      "-.__              WM: Mutter
+  `Y$$                        Theme: Yaru-dark [GTK2/3]
+   `Y$$.                      Terminal: tmux
+     `$$b.                    CPU: AMD Ryzen Threadripper PRO 5995WX (128) @ 4.500GHz
+       `Y$$b.                 GPU: 4x NVIDIA RTX 4090 24GB VRAM (NVLink)
+          `"Y$b._             Memory: 256128MiB / 262144MiB (DDR5 5200MHz)
+              `""""           Disk: 8TB NVMe Gen5 SSD
 
 $ cat /etc/research_status
-  → DEBRIX-X     : ACTIVE   🛰️  [LEO orbit simulation running]
-  → MindTrace AI : ACTIVE   🧠  [Bias fingerprinting in progress]
-  → RICE         : ACTIVE   🌾  [AgriModel v2 training...]
-  → Federated-FL : RESEARCH 🔐  [Differential privacy pass #7]
-  → Microgrid    : COMPLETE ⚡  [23.5 tons CO₂/yr saved]
+  [====================] 100% Checking Active Modules...
+
+  → DEBRIX-X     : [ACTIVE]   🛰️  | LEO orbit simulation running | FPS: 144
+  → MindTrace AI : [ACTIVE]   🧠  | Bias fingerprinting in progress | Confidence: 99.8%
+  → RICE         : [ACTIVE]   🌾  | AgriModel v2 training... | Loss: 0.0014
+  → Federated-FL : [RESEARCH] 🔐  | Differential privacy pass #7 | ε=0.5, δ=1e-5
+  → Microgrid    : [COMPLETE] ⚡  | 23.5 tons CO₂/yr saved | Uptime: 99.999%
+  → AETHER-RAMI  : [ACTIVE]   🧪  | GraphCL pretraining epoch 42 | Validation Acc: 94.2%
+
+$ systemctl status quantum-cognition.service
+  ● quantum-cognition.service - Quantum Optimization Engine
+     Loaded: loaded (/etc/systemd/system/quantum-cognition.service; enabled)
+     Active: active (running) since Mon 2024-01-01 00:00:00 UTC
+     Process: 42091 ExecStart=/usr/bin/python3 /opt/quantum/qaoa_solver.py (code=exited, status=0/SUCCESS)
 
 $ _
 ```
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </p>
 
 ---
@@ -143,9 +198,29 @@ $ _
   <img src="https://github-profile-trophy.vercel.app/?username=Premchandyadav369&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" width="100%" alt="Trophies"/>
 </div>
 
+
+### 🔥 TOP REPOSITORIES
+
+<p align="center">
+  <a href="https://github.com/Premchandyadav369/DEBRIX-X">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Premchandyadav369&repo=DEBRIX-X&theme=tokyonight&show_owner=true" alt="DEBRIX-X"/>
+  </a>
+  <a href="https://github.com/Premchandyadav369/MindTrace-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Premchandyadav369&repo=MindTrace-AI&theme=tokyonight&show_owner=true" alt="MindTrace-AI"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Premchandyadav369/AuditX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Premchandyadav369&repo=AuditX&theme=tokyonight&show_owner=true" alt="AuditX"/>
+  </a>
+  <a href="https://github.com/Premchandyadav369/AETHER-RAMI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Premchandyadav369&repo=AETHER-RAMI&theme=tokyonight&show_owner=true" alt="AETHER-RAMI"/>
+  </a>
+</p>
+
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="25" height="25" /> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="90%"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="25" height="25" />
 </p>
 
 ---
@@ -325,7 +400,7 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 
 ---
 
-## 🧬 CURRENT FRONTIER RESEARCH — AETHER-RAMI
+## 🧬 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&vCenter=true&width=600&lines=CURRENT+FRONTIER+RESEARCH;AETHER-RAMI+MOLECULAR+PLATFORM" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xUOxfhIeH0mA4V6ekw/giphy.gif" width="420" alt="Molecular Simulation"/>
@@ -351,7 +426,7 @@ The world's first quantum-inspired cognitive bias detector. Moves beyond simple 
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 ---
@@ -366,7 +441,7 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
 </p>
 
 ---
@@ -405,12 +480,12 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cut.png" width="100%">
 </p>
 
 ---
 
-## 🔬 RESEARCH EXPERIENCE
+## 🔬 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&vCenter=true&width=500&lines=RESEARCH+EXPERIENCE;DEEP+TECH+%26+INNOVATION" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="Research Animation"/>
@@ -451,7 +526,7 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wavy.png" width="100%">
 </p>
 
 ---
@@ -481,7 +556,7 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 
 ---
 
-## 🛠️ TECH STACK — FULL BADGE ARSENAL
+## 🛠️ <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D9FF&vCenter=true&width=600&lines=TECH+STACK+%E2%80%94+FULL+BADGE+ARSENAL;LANGUAGES,+FRAMEWORKS+%26+TOOLS" alt="Typing SVG" /></a>
 
 <div align="center">
 
@@ -592,7 +667,7 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ---
@@ -622,7 +697,7 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
 ---
@@ -637,6 +712,26 @@ A **self-supervised Mixture-of-Experts GNN framework**, developed with **Prof. S
 | 🌾 **Founder** | RICE — AI-Driven AgriTech Initiative | 2024 – Present |
 
 ---
+
+
+## 🖥️ AI RIG / BATTLE STATION SPECS
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Jk2NNA2MhV47S/giphy.gif" width="600" alt="Cyberpunk Setup"/>
+</div>
+
+> *"To train the most advanced models, you need the raw compute to back it up. Here is the hardware driving my research."*
+
+| ⚙️ Component | 🚀 Specification | 🎯 Role in Workflow |
+|:---|:---|:---|
+| **CPU** | AMD Ryzen Threadripper PRO 5995WX (64-core) | Multi-threaded graph processing & dataset compilation |
+| **GPU Cluster** | 4x NVIDIA RTX 4090 24GB (NVLink) | LLM fine-tuning, Molecular docking, Multi-agent reinforcement learning |
+| **Memory** | 256GB DDR5 5200MHz ECC | In-memory processing for Stanford SNAP million-node graphs |
+| **Storage** | 8TB NVMe Gen5 SSD Raid 0 | High IOPS for massive image datasets & checkpoint saving |
+| **Monitors** | Dual 32" 4K OLED + 27" Vertical | Deep work immersion, multi-terminal monitoring |
+| **Cooling** | Custom EKWB Liquid Loop (Dual 480mm Rads) | Sustained max load without thermal throttling |
+| **OS** | Ubuntu 22.04 LTS (Primary) / Windows 11 (Gaming/Testing) | Full Docker & CUDA toolkit native support |
+
 
 ## 📊 GITHUB STATISTICS
 
@@ -751,7 +846,7 @@ Faster SVG-only builds can use `uses: Platane/snk/svg-only@v3` instead. Palette,
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
 
 ---
@@ -769,7 +864,7 @@ Faster SVG-only builds can use `uses: Platane/snk/svg-only@v3` instead. Palette,
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 </p>
 
 ---
@@ -811,7 +906,7 @@ Faster SVG-only builds can use `uses: Platane/snk/svg-only@v3` instead. Palette,
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 </p>
 
 ---
@@ -846,7 +941,7 @@ Faster SVG-only builds can use `uses: Platane/snk/svg-only@v3` instead. Palette,
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
 ---
@@ -907,7 +1002,7 @@ Faster SVG-only builds can use `uses: Platane/snk/svg-only@v3` instead. Palette,
 
 <!-- ANIMATED DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
 </p>
 
 ---
