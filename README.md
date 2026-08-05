@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Premchand+%F0%9F%91%8B;Machine+Learning+Engineer+%7C+Data+Scientist;AI+Researcher+%7C+GNNs+%2B+Quantum+ML;Building+AETHER-RAMI+%7C+DEBRIX+%7C+Q-RouteX" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=220&section=header&text=V%20C%20Premchand%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Premchand+%F0%9F%91%8B;Machine+Learning+Engineer+%7C+Data+Scientist;AI+Researcher+%7C+GNNs+%2B+Quantum+ML;Building+AETHER-RAMI+%7C+DEBRIX+%7C+Q-RouteX;Turning+raw+data+into+deployed%2C+honest+results." alt="Typing SVG" />
 
-**Machine Learning Engineer • Data Scientist • AI Researcher**
-Turning raw tabular, graph, and biomedical data into deployed, evaluated, honestly-reported systems.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rice-24.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/premchand-yadav)
@@ -14,10 +13,13 @@ Turning raw tabular, graph, and biomedical data into deployed, evaluated, honest
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcpremchandyadav@gmail.com)
 [![Phone](https://img.shields.io/badge/+91--9030822369-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919030822369)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Premchandyadav369&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Premchandyadav369?style=for-the-badge&color=00D9FF&labelColor=000000)
+<img src="https://komarev.com/ghpvc/?username=Premchandyadav369&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Premchandyadav369?style=for-the-badge&color=00D9FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=success&label=CGPA&query=%24.cgpa&suffix=%2F10&url=data%3Aapplication%2Fjson%2C%7B%22cgpa%22%3A9.35%7D"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FF7&height=3&section=header"/>
 
 <br/>
 
@@ -54,10 +56,23 @@ Turning raw tabular, graph, and biomedical data into deployed, evaluated, honest
 
 ## 🧠 About Me
 
+<img align="right" width="340" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik/main/gif2.gif"/>
+
 I'm a B.Tech Computer Science (AI & Machine Learning) student at **VIT-AP University** (CGPA 9.35/10), working on research spanning graph neural networks, quantum-inspired computing, computer vision, and AI safety/governance. I move fluidly between two modes of work:
 
 - **Data-science-heavy**: statistical modeling, hypothesis testing, forecasting, business analytics — across agriculture, finance, and healthcare tabular datasets.
 - **Research-style engineering**: GNNs, transformers, quantum-inspired algorithms, and runtime safety verification for autonomous systems.
+
+- 🎓 B.Tech CS (AI & ML), VIT-AP University — **CGPA 9.35/10** (2023–2027)
+- 🚀 Founder, **RICE** — AgriTech recommendation platform ([live →](https://rice-24.vercel.app))
+- 🛰️ Co-author, *Glass Box at Orbit* — Constitutional AI verification for autonomous CubeSats (arXiv:2606.02967)
+- 🧬 Building **AETHER-RAMI V10.5 OMEGA** — geometric deep-learning drug discovery platform
+- 🏆 Winner, **HybridHack** @ SRM Institute (2025)
+- 🧪 4 peer-reviewed publications: IEEE ×2, arXiv ×1, HuggingFace open-source release ×1
+- 📍 Amaravati, Andhra Pradesh, India
+- 💬 Ask me about GNN pretraining objectives, drug-target interaction pipelines, QUBO formulations, or honest ML metrics reporting
+
+<br clear="right"/>
 
 ```mermaid
 mindmap
@@ -90,18 +105,15 @@ mindmap
       Entropy-Gated Hybrid Planning
 ```
 
-- 🎓 B.Tech CS (AI & ML), VIT-AP University — **CGPA 9.35/10** (2023–2027)
-- 🚀 Founder, **RICE** — AgriTech recommendation platform ([live →](https://rice-24.vercel.app))
-- 🛰️ Co-author, *Glass Box at Orbit* — Constitutional AI verification for autonomous CubeSats (arXiv:2606.02967)
-- 🧬 Building **AETHER-RAMI V10.5 OMEGA** — geometric deep-learning drug discovery platform
-- 🏆 Winner, **HybridHack** @ SRM Institute (2025)
-- 🧪 4 peer-reviewed publications: IEEE ×2, arXiv ×1, HuggingFace open-source release ×1
-- 📍 Amaravati, Andhra Pradesh, India
-- 💬 Ask me about GNN pretraining objectives, drug-target interaction pipelines, QUBO formulations, or honest ML metrics reporting
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3"/>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,git,docker,aws,streamlit,matlab,vscode,jupyter&theme=dark&perline=7"/>
+
+</div>
 
 <table>
 <tr>
@@ -168,7 +180,16 @@ Oracle GenAI · CI/CD · FHIR R4 · ICD-10/SNOMED · NASA GMAT · HOMER Pro · U
 </tr>
 </table>
 
----
+**Skill proficiency**
+
+`Python`        `██████████` 95%
+`PyTorch`       `█████████░` 90%
+`Graph ML`      `█████████░` 92%
+`Quantum ML`    `███████░░░` 75%
+`Computer Vision` `████████░░` 82%
+`MLOps / Cloud` `███████░░░` 78%
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FF7&height=3"/>
 
 ## 📄 Publications & Frontier Research
 
@@ -182,6 +203,7 @@ Oracle GenAI · CI/CD · FHIR R4 · ICD-10/SNOMED · NASA GMAT · HOMER Pro · U
 
 <details>
 <summary><b>🔍 Expand publication details</b></summary>
+<br/>
 
 **Glass Box at Orbit** — Co-authored a runtime Constitutional AI verification layer intercepting every candidate action from an onboard autonomous AI policy for orbital data-center-scale CubeSats operating with no human in the loop. Formulated **six physics-grounded constitutional constraints** and **seven Linear Temporal Logic (LTL) safety invariants** guaranteeing no unsafe command reaches spacecraft subsystems.
 
@@ -193,7 +215,7 @@ Oracle GenAI · CI/CD · FHIR R4 · ICD-10/SNOMED · NASA GMAT · HOMER Pro · U
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3"/>
 
 ## 🧬 Flagship Project — AETHER-RAMI V10.5 OMEGA
 
@@ -233,7 +255,7 @@ flowchart LR
 
 `GNN` `GraphCL` `ESM-2` `Cross-Attention` `CLIP` `Active Learning` `FAISS` `Drug Discovery`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FF7&height=3"/>
 
 ## 🚀 Featured Projects
 
@@ -286,7 +308,7 @@ Privacy-preserving distributed ML for collaborative wearable health monitoring (
 Portfolio Kaggle notebook — toss impact, match-phase breakdowns, and performance visualizations across IPL seasons.
 `EDA` `Sports Analytics`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3"/>
 
 ## 🏗️ System Architecture Highlights
 
@@ -334,24 +356,26 @@ flowchart LR
 ```
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FF7&height=3"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Premchandyadav369&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premchandyadav369&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Premchandyadav369&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchandyadav369&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Premchandyadav369&theme=radical&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Premchandyadav369&theme=radical&hide_border=true&background=0D1117"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Premchandyadav369&theme=radical&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Premchandyadav369&theme=radical&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Premchandyadav369&theme=radical&hide_border=true&bg_color=0D1117&layout=compact"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3"/>
 
 ## 🎓 Education
 
@@ -362,7 +386,7 @@ B.Tech in Computer Science (AI & Machine Learning) — **CGPA: 9.35/10** · Sep 
 **ALLEN Career Institute**, India — Higher Secondary (Science), **95.9%** · Jun 2021 – Apr 2023
 **Emmaus Swiss High School**, India — Secondary Education, **92.6%** · Jun 2008 – Jun 2021
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FF7&height=3"/>
 
 ## 🏆 Awards & Leadership
 
@@ -379,7 +403,7 @@ B.Tech in Computer Science (AI & Machine Learning) — **CGPA: 9.35/10** · Sep 
 - 🧬 **AETHER-RAMI** — public GitHub repo documenting a multi-version molecular intelligence research platform
 - 📦 Active GitHub & HuggingFace presence — Kaggle notebooks and model artifacts for reproducible research in drug discovery, quantum ML, and space-systems intelligence
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3"/>
 
 ## 🔭 Currently Exploring
 
@@ -387,6 +411,10 @@ B.Tech in Computer Science (AI & Machine Learning) — **CGPA: 9.35/10** · Sep 
 - Extending **AETHER-RAMI** with additional protein targets and richer active-learning loops
 - Deeper **quantum-inspired optimization** (QAOA/QUBO) for network and logistics resilience problems
 - Runtime **AI safety verification** patterns generalizable beyond CubeSat autonomy
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/octocat.gif" width="120"/>
+</div>
 
 ---
 
@@ -401,6 +429,8 @@ B.Tech in Computer Science (AI & Machine Learning) — **CGPA: 9.35/10** · Sep 
 
 *"Report the verified number, not the hoped-for one — and build the thing anyway."*
 
-![Snake animation](https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=7B2FF7&center=true&vCenter=true&width=700&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+that+actually+ships." alt="Footer Typing SVG"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D9FF&height=150&section=footer" width="100%"/>
