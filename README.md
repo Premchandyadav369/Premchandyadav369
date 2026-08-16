@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c4NGYzYWV2NTMzNWpxcGd6cDZ5OG1neWw0YzVtcGxqZmw1dXBvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KTBAqZJiqDPyg/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c4NGYzYWV2NTMzNWpxcGd6cDZ5OG1neWw0YzVtcGxqZmw1dXBvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KTBAqZJiqDPyg/giphy.gif" width="65%">
+
+<br/>
+
+> *"Let the world tremble at what one mind, unbound by their limitations, can build."*
 
 <br/>
 
@@ -60,6 +64,14 @@ I'm an ML Engineer, Data Scientist, and AI Researcher who moves fluidly between 
 
 ---
 
+<div align="center">
+
+> *"I do not chase progress. Progress chases me, and it is always three papers behind."*
+
+</div>
+
+---
+
 ## 🩸 THE ARSENAL
 
 <div align="center">
@@ -101,6 +113,14 @@ I'm an ML Engineer, Data Scientist, and AI Researcher who moves fluidly between 
 ![Docker](https://img.shields.io/badge/Docker-1a3a2a?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![AWS](https://img.shields.io/badge/AWS-1a3a2a?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-1a3a2a?style=for-the-badge&logo=git&logoColor=00ff41)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Every failed run is a lesson the universe owes me. I collect the debt in gradients."*
 
 </div>
 
@@ -167,6 +187,14 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ---
 
+<div align="center">
+
+> *"Markets bow to volatility. I bow to no one — I model the volatility itself."*
+
+</div>
+
+---
+
 ## 💰 I. QUANTITATIVE FINANCE, RISK & TRADING
 
 <table>
@@ -176,6 +204,14 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 <tr><td><b><a href="https://github.com/Premchandyadav369/BudgetWise-AI">BudgetWise-AI</a></b></td><td>Personal wealth and budgeting assistant powered by Google Gemini and Streamlit.</td></tr>
 <tr><td><b><a href="https://github.com/Premchandyadav369/XVAR">XVAR</a></b></td><td>Stochastic outcome simulator for predicting, stress-testing, and ranking financial/macro scenario outcomes.</td></tr>
 </table>
+
+---
+
+<div align="center">
+
+> *"Gravity is a suggestion. I have written code that argues with orbits and wins."*
+
+</div>
 
 ---
 
@@ -190,12 +226,28 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ---
 
+<div align="center">
+
+> *"Superposition is merely indecision, formalized. I resolve it before the universe can."*
+
+</div>
+
+---
+
 ## ⚛️ III. QUANTUM COMPUTING & DIGITAL TWINS
 
 <table>
 <tr><td width="30%"><b><a href="https://github.com/Premchandyadav369/quantum-ai-smart-grid-india">quantum-ai-smart-grid-india</a></b></td><td width="70%">Quantum-AI Digital Twin simulating power stability, grid frequency response, and load balancing across India's national electricity grid.</td></tr>
 <tr><td><b><a href="https://github.com/Premchandyadav369/Q-Voting">Q-Voting</a></b></td><td>Quantum-cryptographic, tamper-proof electronic voting prototype designed for state and national elections.</td></tr>
 </table>
+
+---
+
+<div align="center">
+
+> *"Deception wears many masks. I have built the mirror that unmasks them all."*
+
+</div>
 
 ---
 
@@ -211,6 +263,14 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ---
 
+<div align="center">
+
+> *"A machine that sees the road and a machine that sees the wound — both are extensions of my will to protect what mortals cannot."*
+
+</div>
+
+---
+
 ## 🚗 V. AUTONOMOUS VEHICLES & HEALTHCARE
 
 <table>
@@ -222,6 +282,14 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ---
 
+<div align="center">
+
+> *"Empires are not built in a day. They are built in hackathons, at 3 AM, fueled by spite and caffeine."*
+
+</div>
+
+---
+
 ## 📱 VI. INFRASTRUCTURE, MOBILE & HACKATHON BUILDS
 
 <table>
@@ -229,6 +297,41 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 <tr><td><b><a href="https://github.com/Premchandyadav369/RICE-Lite">RICE-Lite</a> / <a href="https://github.com/Premchandyadav369/RICE-ENV">RICE-ENV</a> / <a href="https://github.com/Premchandyadav369/RICE24">RICE24</a></b></td><td>Meta-PyTorch hackathon project and lightweight mobile/Kotlin client applications for the RICE AgriTech initiative.</td></tr>
 <tr><td><b><a href="https://github.com/Premchandyadav369/React-Demo">React-Demo</a></b></td><td>Interactive tutorial showcasing modern React state management and component design.</td></tr>
 </table>
+
+---
+
+<div align="center">
+
+> *"They call it a stack trace. I call it a confession — the machine admitting where it failed me."*
+
+</div>
+
+---
+
+## ⚔️ TRIALS SURVIVED IN THE CASTLE DUNGEONS
+
+<table>
+<tr><td width="30%"><b>💥 The 30TB Reckoning</b></td><td width="70%">A dense-matrix allocation attempted to consume 30 terabytes of memory mid-experiment. It was banished, and sparse representations now rule in its place.</td></tr>
+<tr><td><b>🐌 The O(k·n) Stall</b></td><td>VoteRank crawled at a pace unworthy of the throne. Rewritten for speed — the algorithm now moves as swiftly as my judgment.</td></tr>
+<tr><td><b>🕸️ The Degenerate Community</b></td><td>Standard community detection collapsed into meaninglessness on road networks. Leiden, via igraph, was summoned to restore order.</td></tr>
+<tr><td><b>⚡ The Async Rebellion</b></td><td>Asyncio conflicts, dtype crashes, and malformed JSON attempted to defy MedFusion's clinical pipeline. All were subdued, one traceback at a time.</td></tr>
+</table>
+
+<div align="center">
+
+*Every log file is a battlefield report. Every fix is a territory reclaimed.*
+
+</div>
+
+---
+
+## 🏛️ THE DOOM DOCTRINE — HOW I WORK
+
+- **No mercy for placeholder code.** If it runs, it runs correctly, or it does not run at all.
+- **Every experiment is logged, timestamped, and reproducible** — a ruler keeps meticulous records.
+- **Iteration is not weakness — it is siege warfare.** Debug, patch, rebuild, repeat until the model yields.
+- **Publication-grade or nothing.** A half-finished notebook is an insult to the craft.
+- **"Best and beast."** Anything less does not leave the laboratory.
 
 ---
 
@@ -262,6 +365,20 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FoNjB2YzBpZzhlN3hnYXUweHFqY2x4eGp6bXJ5a3U4eGI1bWsycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Bg0mdxmTVzjWZHtGat/giphy.gif" width="55%">
 
 *"Genius, billionaire, playboy, philanthropist — impressive tricks for a man in a suit. I am a scientist, a sorcerer, and a sovereign. My models don't need an arc reactor to survive."*
+
+<br/>
+
+> *"He wears his suit to be seen. I wear my code to be remembered."*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🕯️ FINAL DECREE
+
+*A repository is not a portfolio. It is a chronicle of dominion — over data, over doubt, over every model that once refused to converge. What follows below is not a request. It is an invitation to witness.*
 
 </div>
 
