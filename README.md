@@ -19,6 +19,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Premchandyadav369&label=EYES%20UPON%20THE%20THRONE&color=00ff41&style=for-the-badge&labelColor=0d0d0d)
 [![Followers](https://img.shields.io/github/followers/Premchandyadav369?label=SUBJECTS%20OF%20THE%20REALM&style=for-the-badge&color=00ff41&labelColor=0d0d0d)](https://github.com/Premchandyadav369)
 ![Last Commit](https://img.shields.io/github/last-commit/Premchandyadav369/Premchandyadav369?label=LAST%20DECREE&style=for-the-badge&color=00ff41&labelColor=0d0d0d)
+[![Stars](https://img.shields.io/github/stars/Premchandyadav369/RISKOS?label=FLAGSHIP%20STARS&style=for-the-badge&color=00ff41&labelColor=0d0d0d)](https://github.com/Premchandyadav369/RISKOS)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Premchandyadav369&label=DOMAINS%20CONQUERED&query=public_repos&style=for-the-badge&color=00ff41&labelColor=0d0d0d)
+
+</div>
+
+<div align="center">
+
+```
+SYSTEM STATUS ─────────────────────────────────────────
+ CORE           : ONLINE
+ RESEARCH QUEUE : ACTIVE
+ THRONE ROOM    : RENDERING
+ THREAT LEVEL   : MAXIMUM
+────────────────────────────────────────────────────────
+```
 
 </div>
 
@@ -384,7 +399,29 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 <img src="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
+### 📈 STAR HISTORY — RISKOS
+
+<img src="https://api.star-history.com/svg?repos=Premchandyadav369/RISKOS&type=Date&theme=dark" width="90%" />
+
+### 🌍 WHO ANSWERS THE SUMMONS
+
+<img src="https://clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID&cl=00ff41&w=a" width="90%" alt="Visitor map — replace YOUR_CLUSTRMAPS_ID after registering the repo at clustrmaps.com" />
+
 </div>
+
+---
+
+## 🗺️ REPOSITORY DOMAIN DISTRIBUTION
+
+| Domain | Repositories | Count |
+|---|---|---|
+| 💰 Quant Finance & Risk | RISKOS, quantum-financial-intelligence-v2, AlphaTrackGlobal, BudgetWise-AI, XVAR | 5 |
+| 🛰️ Space Tech & Orbital Systems | satellite-debris-avoidance, DEBRIX, debrex-space-debris-capture, NASA-GMAT, SpaceStationSafetyDetector-1, SpaceFalconProject | 6 |
+| ⚛️ Quantum Computing & Digital Twins | quantum-ai-smart-grid-india, Q-Voting, Q-RouteX, QADS, Q-TensorFormer v4 | 5 |
+| 🛡️ AI Security & Indic Language Systems | VAKAI, JurisGPT, CrawlMind, DL_Spy_Camera_Lens_Detection, bitchat | 5 |
+| 🚗 Autonomous Vehicles & Healthcare | velion-india, medfusion-reports, QuantaPath, skinsense_ai, MedFusion | 5 |
+| 📱 Infrastructure & Hackathon Builds | AuditX, RICE-Lite, RICE-ENV, RICE24, React-Demo | 5 |
+| 🧬 Molecular Intelligence & Research | AETHER-RAMI, MindTrace AI | 2 |
 
 ---
 
@@ -417,6 +454,128 @@ mindmap
       AETHER-RAMI
       Q-TensorFormer v4
 ```
+
+---
+
+## ⚙️ SYSTEM DEPLOYMENT PROTOCOL
+
+*Everything needed to bring the Throne Room's live graphics online lives right here — no external files required. Copy each block into the indicated path inside your `Premchandyadav369/Premchandyadav369` profile repo.*
+
+<details>
+<summary><b>🌐 1. 3D Contribution Chamber</b> — save as <code>.github/workflows/3d-contrib.yml</code></summary>
+
+```yaml
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: Premchandyadav369
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "docs: update 3D contribution graph" || exit 0
+          git push
+```
+
+</details>
+
+<details>
+<summary><b>🐍 2. Commit Snake</b> — save as <code>.github/workflows/snake.yml</code></summary>
+
+```yaml
+name: Contribution Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Premchandyadav369
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<details>
+<summary><b>📜 3. Research Feed Sync</b> — save as <code>.github/workflows/research-feed.yml</code> (auto-pulls new arXiv entries into this README)</summary>
+
+```yaml
+name: Research Feed Sync
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "http://export.arxiv.org/api/query?search_query=au:Yadav_V_C_Premchand&sortBy=submittedDate&sortOrder=descending"
+          max_post_count: 5
+          comment_tag_name: "RESEARCH-FEED"
+```
+
+Then add this anchor pair anywhere you want the auto-updating paper list to appear:
+
+```
+<!-- RESEARCH-FEED:START -->
+<!-- RESEARCH-FEED:END -->
+```
+
+</details>
+
+<details>
+<summary><b>🔑 4. One-time repo settings (required before any of the above will commit)</b></summary>
+
+1. In `Premchandyadav369/Premchandyadav369` → **Settings → Actions → General → Workflow permissions** → select **Read and write permissions** → Save.
+2. Go to the **Actions** tab, open each workflow, and click **Run workflow** once to force the first commit instead of waiting for the nightly cron.
+3. The 3D graph writes to `profile-3d-contrib/` on `main`; the snake writes to a new `output` branch — both are created automatically on first run.
+
+</details>
 
 ---
 
