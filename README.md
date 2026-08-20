@@ -22,21 +22,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-```
-> INITIATING BOOT SEQUENCE ...
-> LOADING LATVERIAN CORE OS v4.2 ...
-> AUTHENTICATING SOVEREIGN CREDENTIALS ... [ OK ]
-> COMPILING 30+ REPOSITORIES ... [ OK ]
-> RENDERING NEURAL ARCHITECTURE ... [ OK ]
-> STATUS: THE THRONE IS ONLINE.
-```
-
-</div>
-
 ---
 
 <table align="center">
@@ -80,6 +65,12 @@ I'm an ML Engineer, Data Scientist, and AI Researcher who moves fluidly between 
 - 📜 Co-Author, arXiv:2606.02967 — Project October Series (2026)
 - 📍 Operating out of **Latveria** — coordinates classified
 
+<br/>
+
+🎯 **Currently building:** AETHER-RAMI molecular intelligence & Q-TensorFormer v4
+🌱 **Currently deep in:** quantum-classical hybrid planning, constitutional AI safety for autonomous systems
+💬 **Ask me about:** graph neural networks, quantum-inspired ML, drug discovery pipelines, autonomous system safety verification
+
 ---
 
 <div align="center">
@@ -94,43 +85,97 @@ I'm an ML Engineer, Data Scientist, and AI Researcher who moves fluidly between 
 
 <div align="center">
 
-**Deep Learning & Vision**
-<br/>
+### 🧠 Deep Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a3a2a?style=for-the-badge&logo=pytorch&logoColor=00ff41)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a3a2a?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a3a2a?style=for-the-badge&logo=opencv&logoColor=00ff41)
-![YOLO](https://img.shields.io/badge/YOLOv8-1a3a2a?style=for-the-badge&logo=yolo&logoColor=00ff41)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-1a3a2a?style=for-the-badge&logo=yolo&logoColor=00ff41)
+![ONNX](https://img.shields.io/badge/ONNX-1a3a2a?style=for-the-badge&logo=onnx&logoColor=00ff41)
+![CNN LSTM](https://img.shields.io/badge/CNN%20%7C%20LSTM-1a3a2a?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
+![ViT](https://img.shields.io/badge/Vision%20Transformers-1a3a2a?style=for-the-badge&logo=transformers&logoColor=00ff41)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-1a3a2a?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
+![XAI](https://img.shields.io/badge/SHAP%20%7C%20LIME%20%7C%20Grad--CAM-1a3a2a?style=for-the-badge&logo=databricks&logoColor=00ff41)
 
-**Graph & Geometric Learning**
-<br/>
-![GNN](https://img.shields.io/badge/GNN%20%7C%20GATv2%20%7C%20GraphSAGE-1a3a2a?style=for-the-badge&logo=graphql&logoColor=00ff41)
-![ESM2](https://img.shields.io/badge/ESM--2%20Protein%20LM-1a3a2a?style=for-the-badge&logo=dna&logoColor=00ff41)
+### 🕸️ Graph & Geometric Deep Learning
+![GNN](https://img.shields.io/badge/GNN-1a3a2a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+![GATv2Conv](https://img.shields.io/badge/GATv2Conv-1a3a2a?style=for-the-badge&logo=pytorch&logoColor=00ff41)
+![GraphSAGE](https://img.shields.io/badge/GraphSAGE-1a3a2a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+![GCN](https://img.shields.io/badge/GCN-1a3a2a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+![GraphCL](https://img.shields.io/badge/GraphCL%20%7C%20InfoNCE-1a3a2a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+![GPS Transformer](https://img.shields.io/badge/GPS%20Graph%20Transformer-1a3a2a?style=for-the-badge&logo=graphql&logoColor=00ff41)
+![ESM-2](https://img.shields.io/badge/ESM--2%20Protein%20LM-1a3a2a?style=for-the-badge&logo=dna&logoColor=00ff41)
 
-**NLP & Generative AI**
-<br/>
+### 🌌 GenAI & LLM Tooling
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1a3a2a?style=for-the-badge&logo=huggingface&logoColor=00ff41)
-![RAG](https://img.shields.io/badge/RAG%20%7C%20FAISS-1a3a2a?style=for-the-badge&logo=databricks&logoColor=00ff41)
-![LangChain](https://img.shields.io/badge/LLM%20Orchestration-1a3a2a?style=for-the-badge&logo=chainlink&logoColor=00ff41)
+![RAG](https://img.shields.io/badge/RAG-1a3a2a?style=for-the-badge&logo=databricks&logoColor=00ff41)
+![FAISS](https://img.shields.io/badge/FAISS-1a3a2a?style=for-the-badge&logo=meta&logoColor=00ff41)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1a3a2a?style=for-the-badge&logo=openai&logoColor=00ff41)
+![Transformers](https://img.shields.io/badge/BERT%20%7C%20GPT%20%7C%20LLaMA%20%7C%20MedGemma-1a3a2a?style=for-the-badge&logo=huggingface&logoColor=00ff41)
+![CLIP](https://img.shields.io/badge/CLIP--Style%20Contrastive-1a3a2a?style=for-the-badge&logo=openai&logoColor=00ff41)
+![LoRA](https://img.shields.io/badge/LoRA%20%7C%20Adapters-1a3a2a?style=for-the-badge&logo=huggingface&logoColor=00ff41)
 
-**Quantum & Quantum-Inspired**
-<br/>
+### ⚛️ Quantum & Quantum-Inspired Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-1a3a2a?style=for-the-badge&logo=qiskit&logoColor=00ff41)
 ![PennyLane](https://img.shields.io/badge/PennyLane-1a3a2a?style=for-the-badge&logo=xamarin&logoColor=00ff41)
+![QAOA](https://img.shields.io/badge/QAOA-1a3a2a?style=for-the-badge&logo=atom&logoColor=00ff41)
+![Quantum Walks](https://img.shields.io/badge/Quantum%20Walks-1a3a2a?style=for-the-badge&logo=atom&logoColor=00ff41)
+![VQC](https://img.shields.io/badge/Variational%20Quantum%20Circuits-1a3a2a?style=for-the-badge&logo=atom&logoColor=00ff41)
 ![QUBO](https://img.shields.io/badge/QUBO%20%7C%20Ising%20Models-1a3a2a?style=for-the-badge&logo=atom&logoColor=00ff41)
+![Tensor-Train](https://img.shields.io/badge/Tensor--Train%20Decomposition-1a3a2a?style=for-the-badge&logo=atom&logoColor=00ff41)
 
-**Quant Finance & Risk**
-<br/>
+### 🤖 Multi-Agent & Decision Systems
+![CBBA](https://img.shields.io/badge/CBBA%20Swarm%20Coordination-1a3a2a?style=for-the-badge&logo=robotframework&logoColor=00ff41)
+![PPO](https://img.shields.io/badge/PPO%20Reinforcement%20Learning-1a3a2a?style=for-the-badge&logo=openaigym&logoColor=00ff41)
+![A* Search](https://img.shields.io/badge/A*%20Search-1a3a2a?style=for-the-badge&logo=robotframework&logoColor=00ff41)
+![Entropy Planning](https://img.shields.io/badge/Entropy--Gated%20Hybrid%20Planning-1a3a2a?style=for-the-badge&logo=robotframework&logoColor=00ff41)
+
+### 🔧 Model Optimization & Edge AI
+![Quantization](https://img.shields.io/badge/4--bit%20Quant%20(AWQ%2FGPTQ)-1a3a2a?style=for-the-badge&logo=onnx&logoColor=00ff41)
+![Pruning](https://img.shields.io/badge/Pruning%20%7C%20Distillation-1a3a2a?style=for-the-badge&logo=pytorch&logoColor=00ff41)
+![Focal Loss](https://img.shields.io/badge/Focal%20Loss-1a3a2a?style=for-the-badge&logo=pytorch&logoColor=00ff41)
+![Edge Deployment](https://img.shields.io/badge/Edge%20%2F%20Mobile%20%2F%20NPU-1a3a2a?style=for-the-badge&logo=nvidia&logoColor=00ff41)
+
+### 🛡️ AI Safety & Governance
+![Constitutional AI](https://img.shields.io/badge/Constitutional%20AI%20Verification-1a3a2a?style=for-the-badge&logo=shieldsdotio&logoColor=00ff41)
+![LTL](https://img.shields.io/badge/Linear%20Temporal%20Logic-1a3a2a?style=for-the-badge&logo=shieldsdotio&logoColor=00ff41)
+![Runtime Verification](https://img.shields.io/badge/Runtime%20Policy%20Verification-1a3a2a?style=for-the-badge&logo=shieldsdotio&logoColor=00ff41)
+
+### 📊 Data Science & Statistics
+![EDA](https://img.shields.io/badge/EDA%20%7C%20Statistical%20Analysis-1a3a2a?style=for-the-badge&logo=pandas&logoColor=00ff41)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20%2F%20A--B%20Testing-1a3a2a?style=for-the-badge&logo=numpy&logoColor=00ff41)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-1a3a2a?style=for-the-badge&logo=scikitlearn&logoColor=00ff41)
+![Time Series](https://img.shields.io/badge/Time--Series%20Forecasting-1a3a2a?style=for-the-badge&logo=numpy&logoColor=00ff41)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-1a3a2a?style=for-the-badge&logo=scikitlearn&logoColor=00ff41)
+![Ensemble](https://img.shields.io/badge/Ensemble%20Methods-1a3a2a?style=for-the-badge&logo=scikitlearn&logoColor=00ff41)
+
+### 💰 Quant Finance & Risk
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a3a2a?style=for-the-badge&logo=fastapi&logoColor=00ff41)
 ![NextJS](https://img.shields.io/badge/Next.js-1a3a2a?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
-![NumPy](https://img.shields.io/badge/NumPy%20%7C%20SciPy-1a3a2a?style=for-the-badge&logo=numpy&logoColor=00ff41)
+![NumPy SciPy](https://img.shields.io/badge/NumPy%20%7C%20SciPy-1a3a2a?style=for-the-badge&logo=numpy&logoColor=00ff41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-1a3a2a?style=for-the-badge&logo=tailwindcss&logoColor=00ff41)
+![TradingView](https://img.shields.io/badge/TradingView%20Charts-1a3a2a?style=for-the-badge&logo=tradingview&logoColor=00ff41)
 
-**Core Stack**
-<br/>
+### ☁️ Cloud, MLOps & Systems Simulation
+![AWS](https://img.shields.io/badge/AWS-1a3a2a?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-1a3a2a?style=for-the-badge&logo=docker&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-1a3a2a?style=for-the-badge&logo=git&logoColor=00ff41)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20%7C%20Agile-1a3a2a?style=for-the-badge&logo=githubactions&logoColor=00ff41)
+![MATLAB](https://img.shields.io/badge/MATLAB-1a3a2a?style=for-the-badge&logo=mathworks&logoColor=00ff41)
+![NASA GMAT](https://img.shields.io/badge/NASA%20GMAT-1a3a2a?style=for-the-badge&logo=nasa&logoColor=00ff41)
+![UKF](https://img.shields.io/badge/Unscented%20Kalman%20Filters-1a3a2a?style=for-the-badge&logo=probot&logoColor=00ff41)
+![FHIR](https://img.shields.io/badge/FHIR%20R4%20%7C%20ICD--10%20%7C%20SNOMED-1a3a2a?style=for-the-badge&logo=heartbeat&logoColor=00ff41)
+
+### 💻 Core Programming & App Development
 ![Python](https://img.shields.io/badge/Python-1a3a2a?style=for-the-badge&logo=python&logoColor=00ff41)
 ![SQL](https://img.shields.io/badge/SQL-1a3a2a?style=for-the-badge&logo=postgresql&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-1a3a2a?style=for-the-badge&logo=docker&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/AWS-1a3a2a?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-1a3a2a?style=for-the-badge&logo=git&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a3a2a?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![Java](https://img.shields.io/badge/Java-1a3a2a?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a3a2a?style=for-the-badge&logo=scikitlearn&logoColor=00ff41)
+![Pandas](https://img.shields.io/badge/Pandas-1a3a2a?style=for-the-badge&logo=pandas&logoColor=00ff41)
+![Matplotlib](https://img.shields.io/badge/Matplotlib%20%7C%20Seaborn-1a3a2a?style=for-the-badge&logo=plotly&logoColor=00ff41)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a3a2a?style=for-the-badge&logo=streamlit&logoColor=00ff41)
+![Gradio](https://img.shields.io/badge/Gradio-1a3a2a?style=for-the-badge&logo=gradio&logoColor=00ff41)
+![Jupyter](https://img.shields.io/badge/Jupyter%20%2F%20Kaggle-1a3a2a?style=for-the-badge&logo=jupyter&logoColor=00ff41)
 
 </div>
 
@@ -246,23 +291,6 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 <div align="center">
 
-> *"Superposition is merely indecision, formalized. I resolve it before the universe can."*
-
-</div>
-
----
-
-## ⚛️ III. QUANTUM COMPUTING & DIGITAL TWINS
-
-<table>
-<tr><td width="30%"><b><a href="https://github.com/Premchandyadav369/quantum-ai-smart-grid-india">quantum-ai-smart-grid-india</a></b></td><td width="70%">Quantum-AI Digital Twin simulating power stability, grid frequency response, and load balancing across India's national electricity grid.</td></tr>
-<tr><td><b><a href="https://github.com/Premchandyadav369/Q-Voting">Q-Voting</a></b></td><td>Quantum-cryptographic, tamper-proof electronic voting prototype designed for state and national elections.</td></tr>
-</table>
-
----
-
-<div align="center">
-
 > *"Deception wears many masks. I have built the mirror that unmasks them all."*
 
 </div>
@@ -281,14 +309,6 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ---
 
-<div align="center">
-
-> *"A machine that sees the road and a machine that sees the wound — both are extensions of my will to protect what mortals cannot."*
-
-</div>
-
----
-
 ## 🚗 V. AUTONOMOUS VEHICLES & HEALTHCARE
 
 <table>
@@ -297,14 +317,6 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 <tr><td><b><a href="https://github.com/Premchandyadav369/QuantaPath">QuantaPath</a></b></td><td>Medical diagnostic pathology and workflow optimization platform.</td></tr>
 <tr><td><b><a href="https://github.com/Premchandyadav369/skinsense_ai">skinsense_ai</a></b></td><td>Computer vision dermatological condition screening tool.</td></tr>
 </table>
-
----
-
-<div align="center">
-
-> *"Empires are not built in a day. They are built in hackathons, at 3 AM, fueled by spite and caffeine."*
-
-</div>
 
 ---
 
@@ -318,14 +330,6 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ---
 
-<div align="center">
-
-> *"They call it a stack trace. I call it a confession — the machine admitting where it failed me."*
-
-</div>
-
----
-
 ## ⚔️ TRIALS SURVIVED IN THE CASTLE DUNGEONS
 
 <table>
@@ -334,12 +338,6 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 <tr><td><b>🕸️ The Degenerate Community</b></td><td>Standard community detection collapsed into meaninglessness on road networks. Leiden, via igraph, was summoned to restore order.</td></tr>
 <tr><td><b>⚡ The Async Rebellion</b></td><td>Asyncio conflicts, dtype crashes, and malformed JSON attempted to defy MedFusion's clinical pipeline. All were subdued, one traceback at a time.</td></tr>
 </table>
-
-<div align="center">
-
-*Every log file is a battlefield report. Every fix is a territory reclaimed.*
-
-</div>
 
 ---
 
@@ -372,17 +370,17 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="90%" />
 
-### 🌐 THE THRONE ROOM — 3D CONTRIBUTION CHAMBER
-
-<!--START_SECTION:3d-contrib-->
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-<!--END_SECTION:3d-contrib-->
-
 ### 🏆 TROPHIES OF CONQUEST
 
 <img src="https://github-profile-trophy.vercel.app/?username=Premchandyadav369&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
+### 🌐 THE THRONE ROOM — 3D CONTRIBUTION CHAMBER
+*(auto-generated nightly by the workflow described in the setup notes below)*
+
+<img src="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+
 ### 🐍 THE SIGIL SLITHERS THROUGH MY COMMIT HISTORY
+*(auto-generated nightly by the workflow described in the setup notes below)*
 
 <img src="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
@@ -431,16 +429,6 @@ mindmap
 <br/>
 
 > *"He wears his suit to be seen. I wear my code to be remembered."*
-
-</div>
-
----
-
-<div align="center">
-
-## 🕯️ FINAL DECREE
-
-*A repository is not a portfolio. It is a chronicle of dominion — over data, over doubt, over every model that once refused to converge. What follows below is not a request. It is an invitation to witness.*
 
 </div>
 
