@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c4NGYzYWV2NTMzNWpxcGd6cDZ5OG1neWw0YzVtcGxqZmw1dXBvdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KTBAqZJiqDPyg/giphy.gif" width="65%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FoNjB2YzBpZzhlN3hnYXUweHFqY2x4eGp6bXJ5a3U4eGI1bWsycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Bg0mdxmTVzjWZHtGat/giphy.gif" width="55%">
 
 <br/>
 
@@ -17,10 +17,27 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Premchandyadav369&label=EYES%20UPON%20THE%20THRONE&color=00ff41&style=for-the-badge&labelColor=0d0d0d)
+[![Followers](https://img.shields.io/github/followers/Premchandyadav369?label=SUBJECTS%20OF%20THE%20REALM&style=for-the-badge&color=00ff41&labelColor=0d0d0d)](https://github.com/Premchandyadav369)
+![Last Commit](https://img.shields.io/github/last-commit/Premchandyadav369/Premchandyadav369?label=LAST%20DECREE&style=for-the-badge&color=00ff41&labelColor=0d0d0d)
 
 </div>
 
 <br/>
+
+<div align="center">
+
+```
+> INITIATING BOOT SEQUENCE ...
+> LOADING LATVERIAN CORE OS v4.2 ...
+> AUTHENTICATING SOVEREIGN CREDENTIALS ... [ OK ]
+> COMPILING 30+ REPOSITORIES ... [ OK ]
+> RENDERING NEURAL ARCHITECTURE ... [ OK ]
+> STATUS: THE THRONE IS ONLINE.
+```
+
+</div>
+
+---
 
 <table align="center">
 <tr>
@@ -32,7 +49,7 @@
 ╠═══════════════════════════════════════════╣
 ║ NAME     : V C Premchand Yadav             ║
 ║ TITLE    : Sovereign of Graph Neural Nets  ║
-║ REALM    : Amaravati, AP, India            ║
+║ REALM    : Latveria                        ║
 ║ MISSION  : Bend data to my will            ║
 ║ REPOS    : 30+ domains under my banner     ║
 ║ STATUS   : Publishing. Building. Ruling.   ║
@@ -61,6 +78,7 @@ I'm an ML Engineer, Data Scientist, and AI Researcher who moves fluidly between 
 - 🎓 B.Tech CSE (AI & ML), VIT-AP University — **9.35/10 CGPA**
 - 🏆 Winner, **HybridHack** @ SRM Institute (2025)
 - 📜 Co-Author, arXiv:2606.02967 — Project October Series (2026)
+- 📍 Operating out of **Latveria** — coordinates classified
 
 ---
 
@@ -354,7 +372,53 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="90%" />
 
+### 🌐 THE THRONE ROOM — 3D CONTRIBUTION CHAMBER
+
+<!--START_SECTION:3d-contrib-->
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+<!--END_SECTION:3d-contrib-->
+
+### 🏆 TROPHIES OF CONQUEST
+
+<img src="https://github-profile-trophy.vercel.app/?username=Premchandyadav369&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+### 🐍 THE SIGIL SLITHERS THROUGH MY COMMIT HISTORY
+
+<img src="https://raw.githubusercontent.com/Premchandyadav369/Premchandyadav369/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
+
+---
+
+## 🧭 DOMAIN CONTROL MATRIX
+
+```mermaid
+mindmap
+  root((DOOM))
+    Finance
+      RISKOS
+      AlphaTrackGlobal
+      XVAR
+    Space
+      DEBRIX
+      NASA-GMAT
+      satellite-debris-avoidance
+    Quantum
+      Q-RouteX
+      QADS
+      Q-Voting
+    Healthcare
+      MedFusion
+      QuantaPath
+      skinsense_ai
+    Security
+      VAKAI
+      JurisGPT
+      DL_Spy_Camera_Lens_Detection
+    Molecular AI
+      AETHER-RAMI
+      Q-TensorFormer v4
+```
 
 ---
 
@@ -362,9 +426,7 @@ MedGemma (local vision) + K2-Think-v2 (cloud reasoning), clinical risk calculato
 
 ### 🗿 EVEN STARK KNEELS
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FoNjB2YzBpZzhlN3hnYXUweHFqY2x4eGp6bXJ5a3U4eGI1bWsycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Bg0mdxmTVzjWZHtGat/giphy.gif" width="55%">
-
-*"Genius, billionaire, playboy, philanthropist — impressive tricks for a man in a suit. I am a scientist, a sorcerer, and a sovereign. My models don't need an arc reactor to survive."*
+> *"Genius, billionaire, playboy, philanthropist — impressive tricks for a man in a suit. I am a scientist, a sorcerer, and a sovereign. My models don't need an arc reactor to survive."*
 
 <br/>
 
