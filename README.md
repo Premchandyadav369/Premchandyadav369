@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://premchandyadav.vercel.app/">
+<a href="https://premchandyadav1.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=6E8EFB&center=true&vCenter=true&width=760&lines=V+C+Premchand+Yadav;ML+Engineer+%C2%B7+Data+Scientist+%C2%B7+AI+Researcher;Graph+Neural+Nets+%E2%80%A2+Quant+Risk+%E2%80%A2+Edge+AI+%E2%80%A2+Space+Systems;I+ship+research-grade+systems%2C+not+demos." alt="Typing SVG" />
 </a>
 
