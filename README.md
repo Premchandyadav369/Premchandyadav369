@@ -178,24 +178,6 @@ Qiskit · PennyLane · OpenCV · YOLOv8 · Kaggle · Jupyter · MATLAB · NASA G
 
 <br>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Premchandyadav369&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6E8EFB&icon_color=6E8EFB&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premchandyadav369&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6E8EFB&text_color=c9d1d9" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Premchandyadav369&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6E8EFB&fire=6E8EFB&currStreakLabel=6E8EFB&sideLabels=c9d1d9&dates=8b949e" />
-
-<br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premchandyadav369&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=6E8EFB&point=ffffff&area=true&area_color=6E8EFB&hide_border=true" />
-
-</div>
-
-<br>
 
 ## Founder / Builder
 
